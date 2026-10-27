@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hands-Free Hustle
 
-<!--
-**handsfreehustleai-cyber/handsfreehustleai-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Automate, dominate.**
 
-Here are some ideas to get you started:
+I'm Marcus "MWIZZY" Ward, founder of Hands-Free Hustle LLC out of Indiana. We build hands-free business infrastructure for small businesses: AI automation, workflow systems, voice chatbots that book appointments, web accessibility (WCAG) compliance, and answer engine optimization (AEO).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What lives here
+
+This account is home base for the apps, tools, and automations I build for Hands-Free Hustle and The Hustlers Hub.
+
+## Work with me
+
+Website: [hands-freehustle.net](https://hands-freehustle.net)
